@@ -94,8 +94,3 @@ astant-rag-memory-assistant/
 - Lewis, P. et al. "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks." NeurIPS 2020
 
 ---
-
-## 👤 Author
-
-**Thamizh Ezhilan T**
-B.E. Computer Science and Engineering, Anna University, BIT Campus, Trichy (2024–2027)
